@@ -1,7 +1,9 @@
 ﻿using System;
+using System.Diagnostics;
 
 public class Program
 {
+    
     public static Chocolate CalculateDiscountedPrice(Chocolate chocolate)
     {
         chocolate.TotalPrice = chocolate.Quantity * chocolate.PricePerUnit;
@@ -29,6 +31,8 @@ public class Program
 
     public static void Main(string[] args)
     {
+        Trace.Listeners.Add(new ConsoleTraceListener());
+        Trace.WriteLine("Application execution started");
         Chocolate chocolate = new Chocolate();
 
         Console.WriteLine("Enter the flavour");
@@ -56,5 +60,7 @@ public class Program
             Console.WriteLine("Total Price : " + chocolate.TotalPrice);
             Console.WriteLine("Discounted Price : " + chocolate.DiscountedPrice);
         }
+
+        Trace.WriteLine("Application execution ended");
     }
 }

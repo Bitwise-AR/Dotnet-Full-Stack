@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickMartTraders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ff010a8280b80ab33af6e12b9271b6c12ee19f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e21deb1d0d382244ff4245f094269afe3447200")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickMartTraders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickMartTraders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
