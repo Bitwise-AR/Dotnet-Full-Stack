@@ -1,75 +1,25 @@
-﻿using System.Diagnostics;
-
-class User
-{
-    public string Name { get; set; }
-    public int Age { get; set; }
-}
-
+﻿
 class Program
 {
-    static void PerformCalculation(int a, int b)
-    {
-        Trace.WriteLine($"Entering PerformCalculation | a={a}, b={b}");
-
-        if (b == 0)
-        {
-            Trace.WriteLine("Error: Division by zero detected");
-            return;
-        }
-
-        int result = Divide(a, b);
-
-        Trace.WriteLine($"Calculation successful | Result={result}");
-        Trace.WriteLine("Exiting PerformCalculation");
-    }
-
-    static int Divide(int x, int y)
-    {
-        Trace.WriteLine($"Dividing values | x={x}, y={y}");
-        return x / y;
-    }
-
     static void Main(string[] args)
     {
-        // Trace.Listeners.Add(new ConsoleTraceListener());
-
-        // Trace.WriteLine("Program started");
-
-        // PerformCalculation(10, 5);
-        // PerformCalculation(10, 0);   // Error case
-
-        // Trace.WriteLine("Program ended");
-
-        // int total = 0;
-        // for (int i = 1; i <= 5; i++)
+        // List<Employee> employees = new List<Employee>
         // {
-        //     total += i; // breakpoint here
-        // }
-        // Console.WriteLine(total);
+        //     new Employee { Name = "Amit", Salary = 50000 },
+        //     new Employee { Name = "Ravi", Salary = 70000 },
+        //     new Employee { Name = "Neha", Salary = 60000 }
+        // };
+        // var sortedBySalary = employees.OrderBy(e => e.Salary);
+        // var sortedByName = employees.OrderBy(e => e.Name);
 
-        List<User> users = new List<User>();
-        users.Add(new User{Name = "Aryan", Age = 22});
-        users.Add(new User{Name = "Mohit", Age = 32});
-        users.Add(new User{Name = "Sushant", Age = 68});
-        users.Add(new User{Name = "Ritik", Age = 63});
-        users.Add(new User{Name = "Sahil", Age = 52});
-
-        foreach(var user in users)
-        {
-            Console.WriteLine($"User Name: {user.Name}, User Age: {user.Age}");
-        }
-
-        Queue<int> queue = new Queue<int>();
-        queue.Enqueue(47);
-        queue.Enqueue(23);
-        queue.Enqueue(67);
-        queue.Enqueue(29);
-        queue.Enqueue(92);
-
-        while(queue.Count > 0)
-        {
-            Console.Write(queue.Dequeue() + " ");
-        }
+        List<int> numbers = new List<int> { 28, 63, 49, 56, 20 };
+        int first = numbers.First();
+        Console.WriteLine(first);
+        int result = numbers.First(n => n > 40);
+        Console.WriteLine(result);
+        int last = numbers.Last();
+        Console.WriteLine(last);
+        int res = numbers.Last(n => n < 30);
+        Console.WriteLine(res);
     }
 }

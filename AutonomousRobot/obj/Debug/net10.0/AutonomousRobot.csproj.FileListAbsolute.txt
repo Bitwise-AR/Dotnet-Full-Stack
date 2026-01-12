@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.sourcelink.json
+D:\Capg Training\C# tutorials\AutonomousRobot\bin\Debug\net10.0\AutonomousRobot.exe
+D:\Capg Training\C# tutorials\AutonomousRobot\bin\Debug\net10.0\AutonomousRobot.deps.json
+D:\Capg Training\C# tutorials\AutonomousRobot\bin\Debug\net10.0\AutonomousRobot.runtimeconfig.json
+D:\Capg Training\C# tutorials\AutonomousRobot\bin\Debug\net10.0\AutonomousRobot.dll
+D:\Capg Training\C# tutorials\AutonomousRobot\bin\Debug\net10.0\AutonomousRobot.pdb
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.dll
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\refint\AutonomousRobot.dll
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.pdb
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\AutonomousRobot.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\AutonomousRobot\obj\Debug\net10.0\ref\AutonomousRobot.dll
