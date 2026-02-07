@@ -1,0 +1,15 @@
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.AssemblyInfoInputs.cache
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.AssemblyInfo.cs
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.sourcelink.json
+D:\Capgemini Training\PayRollPro\bin\Debug\net10.0\PayRollPro.exe
+D:\Capgemini Training\PayRollPro\bin\Debug\net10.0\PayRollPro.deps.json
+D:\Capgemini Training\PayRollPro\bin\Debug\net10.0\PayRollPro.runtimeconfig.json
+D:\Capgemini Training\PayRollPro\bin\Debug\net10.0\PayRollPro.dll
+D:\Capgemini Training\PayRollPro\bin\Debug\net10.0\PayRollPro.pdb
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.dll
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\refint\PayRollPro.dll
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.pdb
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\PayRollPro.genruntimeconfig.cache
+D:\Capgemini Training\PayRollPro\obj\Debug\net10.0\ref\PayRollPro.dll

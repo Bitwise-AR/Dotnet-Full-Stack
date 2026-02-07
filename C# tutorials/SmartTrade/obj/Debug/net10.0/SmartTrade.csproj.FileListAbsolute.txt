@@ -1,0 +1,15 @@
+D:\Capgemini Training\SmartTrade\bin\Debug\net10.0\SmartTrade.exe
+D:\Capgemini Training\SmartTrade\bin\Debug\net10.0\SmartTrade.deps.json
+D:\Capgemini Training\SmartTrade\bin\Debug\net10.0\SmartTrade.runtimeconfig.json
+D:\Capgemini Training\SmartTrade\bin\Debug\net10.0\SmartTrade.dll
+D:\Capgemini Training\SmartTrade\bin\Debug\net10.0\SmartTrade.pdb
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.AssemblyInfoInputs.cache
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.AssemblyInfo.cs
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.sourcelink.json
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.dll
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\refint\SmartTrade.dll
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.pdb
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\SmartTrade.genruntimeconfig.cache
+D:\Capgemini Training\SmartTrade\obj\Debug\net10.0\ref\SmartTrade.dll

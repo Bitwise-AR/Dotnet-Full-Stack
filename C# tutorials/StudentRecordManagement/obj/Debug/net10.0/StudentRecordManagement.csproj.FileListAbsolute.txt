@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\StudentRecordManagement\bin\Debug\net10.0\StudentRecordManagement.exe
+D:\Capg Training\C# tutorials\StudentRecordManagement\bin\Debug\net10.0\StudentRecordManagement.deps.json
+D:\Capg Training\C# tutorials\StudentRecordManagement\bin\Debug\net10.0\StudentRecordManagement.runtimeconfig.json
+D:\Capg Training\C# tutorials\StudentRecordManagement\bin\Debug\net10.0\StudentRecordManagement.dll
+D:\Capg Training\C# tutorials\StudentRecordManagement\bin\Debug\net10.0\StudentRecordManagement.pdb
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.sourcelink.json
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.dll
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\refint\StudentRecordManagement.dll
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.pdb
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\StudentRecordManagement.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\StudentRecordManagement\obj\Debug\net10.0\ref\StudentRecordManagement.dll

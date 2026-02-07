@@ -1,0 +1,12 @@
+D:\Capg Training\C# tutorials\MyLibrary\bin\Debug\net10.0\MyLibrary.deps.json
+D:\Capg Training\C# tutorials\MyLibrary\bin\Debug\net10.0\MyLibrary.dll
+D:\Capg Training\C# tutorials\MyLibrary\bin\Debug\net10.0\MyLibrary.pdb
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.sourcelink.json
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.dll
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\refint\MyLibrary.dll
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\MyLibrary.pdb
+D:\Capg Training\C# tutorials\MyLibrary\obj\Debug\net10.0\ref\MyLibrary.dll

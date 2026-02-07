@@ -1,0 +1,5 @@
+D:\Capg Training\C# tutorials\UltraEnterpriseSDLC\obj\Debug\net10.0\UltraEnterpriseSDLC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\UltraEnterpriseSDLC\obj\Debug\net10.0\UltraEnterpriseSDLC.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\UltraEnterpriseSDLC\obj\Debug\net10.0\UltraEnterpriseSDLC.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\UltraEnterpriseSDLC\obj\Debug\net10.0\UltraEnterpriseSDLC.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\UltraEnterpriseSDLC\obj\Debug\net10.0\UltraEnterpriseSDLC.sourcelink.json

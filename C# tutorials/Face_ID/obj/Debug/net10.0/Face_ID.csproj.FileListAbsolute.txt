@@ -1,0 +1,15 @@
+D:\Capgemini Training\Face_ID\bin\Debug\net10.0\Face_ID.exe
+D:\Capgemini Training\Face_ID\bin\Debug\net10.0\Face_ID.deps.json
+D:\Capgemini Training\Face_ID\bin\Debug\net10.0\Face_ID.runtimeconfig.json
+D:\Capgemini Training\Face_ID\bin\Debug\net10.0\Face_ID.dll
+D:\Capgemini Training\Face_ID\bin\Debug\net10.0\Face_ID.pdb
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.AssemblyInfoInputs.cache
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.AssemblyInfo.cs
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.sourcelink.json
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.dll
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\refint\Face_ID.dll
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.pdb
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\Face_ID.genruntimeconfig.cache
+D:\Capgemini Training\Face_ID\obj\Debug\net10.0\ref\Face_ID.dll

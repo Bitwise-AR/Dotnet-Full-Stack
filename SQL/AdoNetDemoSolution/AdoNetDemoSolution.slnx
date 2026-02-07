@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AdoNetDemo/AdoNetDemo.csproj" />
+  <Project Path="Practice/Practice.csproj" Id="89a41c97-7943-47c8-8eca-fe2dc0fd2e94" />
+  <Project Path="SqlCommand/SqlCommand.csproj" Id="1a126ea0-66b9-49cb-b20e-3f117066cc08" />
+</Solution>

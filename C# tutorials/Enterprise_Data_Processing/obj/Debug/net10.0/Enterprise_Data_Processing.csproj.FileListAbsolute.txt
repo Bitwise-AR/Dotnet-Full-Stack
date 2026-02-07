@@ -1,0 +1,15 @@
+D:\Capgemini Training\Enterprise_Data_Processing\bin\Debug\net10.0\Enterprise_Data_Processing.exe
+D:\Capgemini Training\Enterprise_Data_Processing\bin\Debug\net10.0\Enterprise_Data_Processing.deps.json
+D:\Capgemini Training\Enterprise_Data_Processing\bin\Debug\net10.0\Enterprise_Data_Processing.runtimeconfig.json
+D:\Capgemini Training\Enterprise_Data_Processing\bin\Debug\net10.0\Enterprise_Data_Processing.dll
+D:\Capgemini Training\Enterprise_Data_Processing\bin\Debug\net10.0\Enterprise_Data_Processing.pdb
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.AssemblyInfoInputs.cache
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.AssemblyInfo.cs
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.sourcelink.json
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.dll
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\refint\Enterprise_Data_Processing.dll
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.pdb
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\Enterprise_Data_Processing.genruntimeconfig.cache
+D:\Capgemini Training\Enterprise_Data_Processing\obj\Debug\net10.0\ref\Enterprise_Data_Processing.dll

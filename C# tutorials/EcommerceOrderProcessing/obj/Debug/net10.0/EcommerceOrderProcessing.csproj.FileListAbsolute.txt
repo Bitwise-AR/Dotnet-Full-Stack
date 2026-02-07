@@ -1,0 +1,15 @@
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\bin\Debug\net10.0\EcommerceOrderProcessing.exe
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\bin\Debug\net10.0\EcommerceOrderProcessing.deps.json
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\bin\Debug\net10.0\EcommerceOrderProcessing.runtimeconfig.json
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\bin\Debug\net10.0\EcommerceOrderProcessing.dll
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\bin\Debug\net10.0\EcommerceOrderProcessing.pdb
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.AssemblyInfoInputs.cache
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.AssemblyInfo.cs
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.csproj.CoreCompileInputs.cache
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.sourcelink.json
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.dll
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\refint\EcommerceOrderProcessing.dll
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.pdb
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\EcommerceOrderProcessing.genruntimeconfig.cache
+d:\Capg Training\C# tutorials\EcommerceOrderProcessing\obj\Debug\net10.0\ref\EcommerceOrderProcessing.dll

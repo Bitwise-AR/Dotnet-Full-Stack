@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.sourcelink.json
+D:\Capg Training\C# tutorials\PettyCash\bin\Debug\net10.0\PettyCash.exe
+D:\Capg Training\C# tutorials\PettyCash\bin\Debug\net10.0\PettyCash.deps.json
+D:\Capg Training\C# tutorials\PettyCash\bin\Debug\net10.0\PettyCash.runtimeconfig.json
+D:\Capg Training\C# tutorials\PettyCash\bin\Debug\net10.0\PettyCash.dll
+D:\Capg Training\C# tutorials\PettyCash\bin\Debug\net10.0\PettyCash.pdb
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.dll
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\refint\PettyCash.dll
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.pdb
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\PettyCash.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\PettyCash\obj\Debug\net10.0\ref\PettyCash.dll
