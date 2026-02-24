@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Attendance/Attendance.csproj" />
+  <Project Path="HeightProcessing/HeightProcessing.csproj" Id="26db21de-aace-488e-85b1-178663069e5f" />
+  <Project Path="Hospital Patient/Hospital Patient.csproj" />
+  <Project Path="LibraryBook/LibraryBook.csproj" />
+</Solution>

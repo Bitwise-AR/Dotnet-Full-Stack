@@ -1,0 +1,42 @@
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.exe
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.deps.json
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.runtimeconfig.json
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.pdb
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.AssemblyReference.cache
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.sourcelink.json
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.Up2Date
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\refint\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.pdb
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.genruntimeconfig.cache
+D:\Dotnet Full Stack\DotNet\FrontCalc\FrontCalc\obj\Debug\net10.0\ref\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.exe
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.deps.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.runtimeconfig.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\FrontCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.AssemblyReference.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.sourcelink.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.csproj.Up2Date
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\refint\FrontCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\FrontCalc.genruntimeconfig.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\FrontCalc\FrontCalc\obj\Debug\net10.0\ref\FrontCalc.dll

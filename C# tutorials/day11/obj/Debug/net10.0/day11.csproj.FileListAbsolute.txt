@@ -1,0 +1,5 @@
+D:\Capgemini Training\day11\obj\Debug\net10.0\day11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\day11\obj\Debug\net10.0\day11.AssemblyInfoInputs.cache
+D:\Capgemini Training\day11\obj\Debug\net10.0\day11.AssemblyInfo.cs
+D:\Capgemini Training\day11\obj\Debug\net10.0\day11.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\day11\obj\Debug\net10.0\day11.sourcelink.json

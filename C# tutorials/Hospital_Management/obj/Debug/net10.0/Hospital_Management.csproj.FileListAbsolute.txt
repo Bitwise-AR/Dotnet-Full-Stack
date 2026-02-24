@@ -1,0 +1,30 @@
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.AssemblyInfoInputs.cache
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.AssemblyInfo.cs
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.sourcelink.json
+D:\Capgemini Training\Hospital_Management\bin\Debug\net10.0\Hospital_Management.exe
+D:\Capgemini Training\Hospital_Management\bin\Debug\net10.0\Hospital_Management.deps.json
+D:\Capgemini Training\Hospital_Management\bin\Debug\net10.0\Hospital_Management.runtimeconfig.json
+D:\Capgemini Training\Hospital_Management\bin\Debug\net10.0\Hospital_Management.dll
+D:\Capgemini Training\Hospital_Management\bin\Debug\net10.0\Hospital_Management.pdb
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.dll
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\refint\Hospital_Management.dll
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.pdb
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\Hospital_Management.genruntimeconfig.cache
+D:\Capgemini Training\Hospital_Management\obj\Debug\net10.0\ref\Hospital_Management.dll
+D:\Capg Training\C# tutorials\Hospital_Management\bin\Debug\net10.0\Hospital_Management.exe
+D:\Capg Training\C# tutorials\Hospital_Management\bin\Debug\net10.0\Hospital_Management.deps.json
+D:\Capg Training\C# tutorials\Hospital_Management\bin\Debug\net10.0\Hospital_Management.runtimeconfig.json
+D:\Capg Training\C# tutorials\Hospital_Management\bin\Debug\net10.0\Hospital_Management.dll
+D:\Capg Training\C# tutorials\Hospital_Management\bin\Debug\net10.0\Hospital_Management.pdb
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.sourcelink.json
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.dll
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\refint\Hospital_Management.dll
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.pdb
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\Hospital_Management.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\Hospital_Management\obj\Debug\net10.0\ref\Hospital_Management.dll

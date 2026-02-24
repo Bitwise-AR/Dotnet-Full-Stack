@@ -1,0 +1,24 @@
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.deps.json
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.sourcelink.json
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\refint\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\DALCalc\DALCalc\obj\Debug\net10.0\ref\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.deps.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.sourcelink.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\refint\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\DALCalc\DALCalc\obj\Debug\net10.0\ref\DALCalc.dll

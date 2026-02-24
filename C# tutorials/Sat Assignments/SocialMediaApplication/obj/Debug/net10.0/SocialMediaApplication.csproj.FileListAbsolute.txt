@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.sourcelink.json
+D:\Capg Training\C# tutorials\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.exe
+D:\Capg Training\C# tutorials\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.deps.json
+D:\Capg Training\C# tutorials\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.runtimeconfig.json
+D:\Capg Training\C# tutorials\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.dll
+D:\Capg Training\C# tutorials\SocialMediaApplication\bin\Debug\net10.0\SocialMediaApplication.pdb
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.dll
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\refint\SocialMediaApplication.dll
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.pdb
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\SocialMediaApplication.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\SocialMediaApplication\obj\Debug\net10.0\ref\SocialMediaApplication.dll

@@ -1,0 +1,15 @@
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\bin\Debug\net10.0\Hospital Patient.exe
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\bin\Debug\net10.0\Hospital Patient.deps.json
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\bin\Debug\net10.0\Hospital Patient.runtimeconfig.json
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\bin\Debug\net10.0\Hospital Patient.dll
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\bin\Debug\net10.0\Hospital Patient.pdb
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.AssemblyInfo.cs
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.sourcelink.json
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.dll
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\refint\Hospital Patient.dll
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.pdb
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\Hospital Patient.genruntimeconfig.cache
+D:\Dotnet Full Stack\C# tutorials\Practice\Hospital Patient\obj\Debug\net10.0\ref\Hospital Patient.dll

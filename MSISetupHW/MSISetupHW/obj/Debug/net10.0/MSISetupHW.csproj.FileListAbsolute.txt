@@ -1,0 +1,15 @@
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\bin\Debug\net10.0\MSISetupHW.exe
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\bin\Debug\net10.0\MSISetupHW.deps.json
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\bin\Debug\net10.0\MSISetupHW.runtimeconfig.json
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\bin\Debug\net10.0\MSISetupHW.dll
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\bin\Debug\net10.0\MSISetupHW.pdb
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.AssemblyInfo.cs
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.sourcelink.json
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.dll
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\refint\MSISetupHW.dll
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.pdb
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\MSISetupHW.genruntimeconfig.cache
+D:\Dotnet Full Stack\MSISetupHW\MSISetupHW\obj\Debug\net10.0\ref\MSISetupHW.dll

@@ -1,0 +1,15 @@
+D:\Capgemini Training\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.exe
+D:\Capgemini Training\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.deps.json
+D:\Capgemini Training\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.runtimeconfig.json
+D:\Capgemini Training\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.dll
+D:\Capgemini Training\QuickMartTraders\bin\Debug\net10.0\QuickMartTraders.pdb
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfoInputs.cache
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.AssemblyInfo.cs
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.sourcelink.json
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.dll
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\refint\QuickMartTraders.dll
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.pdb
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\QuickMartTraders.genruntimeconfig.cache
+D:\Capgemini Training\QuickMartTraders\obj\Debug\net10.0\ref\QuickMartTraders.dll

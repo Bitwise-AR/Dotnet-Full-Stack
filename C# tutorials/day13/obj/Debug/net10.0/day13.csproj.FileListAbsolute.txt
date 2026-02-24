@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\day13\bin\Debug\net10.0\day13.exe
+D:\Capg Training\C# tutorials\day13\bin\Debug\net10.0\day13.deps.json
+D:\Capg Training\C# tutorials\day13\bin\Debug\net10.0\day13.runtimeconfig.json
+D:\Capg Training\C# tutorials\day13\bin\Debug\net10.0\day13.dll
+D:\Capg Training\C# tutorials\day13\bin\Debug\net10.0\day13.pdb
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.sourcelink.json
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.dll
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\refint\day13.dll
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.pdb
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\day13.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\day13\obj\Debug\net10.0\ref\day13.dll

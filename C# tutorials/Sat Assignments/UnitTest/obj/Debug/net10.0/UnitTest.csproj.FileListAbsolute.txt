@@ -1,0 +1,5 @@
+D:\Capg Training\C# tutorials\Sat Assignments\UnitTest\obj\Debug\net10.0\UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\Sat Assignments\UnitTest\obj\Debug\net10.0\UnitTest.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\Sat Assignments\UnitTest\obj\Debug\net10.0\UnitTest.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\Sat Assignments\UnitTest\obj\Debug\net10.0\UnitTest.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\Sat Assignments\UnitTest\obj\Debug\net10.0\UnitTest.sourcelink.json

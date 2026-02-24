@@ -1,0 +1,101 @@
+﻿@model List<MVCCrud.Models.User>
+@{
+    var editUser = ViewBag.EditUser as MVCCrud.Models.User;
+}
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">User Management</h2>
+
+    <!-- Validation Messages -->
+    @if (!ViewData.ModelState.IsValid)
+    {
+        <div class="alert alert-danger">
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <div>@error.ErrorMessage</div>
+            }
+        </div>
+    }
+
+    <!-- FORM CARD -->
+    <div class="card shadow mb-4">
+        <div class="card-body">
+
+            <form asp-action="Save" method="post">
+
+                <input type="hidden" name="Id" value="@(editUser?.Id ?? 0)" />
+
+                <div class="mb-3">
+                    <label class="form-label">Name</label>
+                    <input name="Name" class="form-control"
+                           value="@(editUser?.Name)" placeholder="Enter name" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Email</label>
+                    <input name="Email" class="form-control"
+                           value="@(editUser?.Email)" placeholder="Enter email" />
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label">Age</label>
+                    <input name="Age" type="number" class="form-control"
+                           value="@(editUser?.Age)" placeholder="Enter age" />
+                </div>
+
+                <button type="submit" class="btn btn-primary">
+                    @(editUser == null || editUser.Id == 0 ? "Add User" : "Update User")
+                </button>
+
+                @if (editUser != null && editUser.Id != 0)
+                {
+                    <a href="/Home/Index" class="btn btn-secondary ms-2">Cancel</a>
+                }
+
+            </form>
+
+        </div>
+    </div>
+
+    <!-- USERS TABLE -->
+    <div class="card shadow">
+        <div class="card-body">
+
+            <h4 class="mb-3">User List</h4>
+
+            <table class="table table-bordered table-hover text-center">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Age</th>
+                        <th style="width:180px;">Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var u in Model)
+                    {
+                        <tr>
+                            <td>@u.Name</td>
+                            <td>@u.Email</td>
+                            <td>@u.Age</td>
+                            <td>
+                                <a href="/Home/Edit/@u.Id"
+                                   class="btn btn-sm btn-warning">Edit</a>
+
+                                <a href="/Home/Delete/@u.Id"
+                                   class="btn btn-sm btn-danger"
+                                   onclick="return confirm('Delete this user?');">
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+
+</div>

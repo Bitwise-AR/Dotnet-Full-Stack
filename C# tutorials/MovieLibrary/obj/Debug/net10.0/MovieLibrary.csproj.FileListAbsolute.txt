@@ -1,0 +1,15 @@
+D:\Capg Training\C# tutorials\MovieLibrary\bin\Debug\net10.0\MovieLibrary.exe
+D:\Capg Training\C# tutorials\MovieLibrary\bin\Debug\net10.0\MovieLibrary.deps.json
+D:\Capg Training\C# tutorials\MovieLibrary\bin\Debug\net10.0\MovieLibrary.runtimeconfig.json
+D:\Capg Training\C# tutorials\MovieLibrary\bin\Debug\net10.0\MovieLibrary.dll
+D:\Capg Training\C# tutorials\MovieLibrary\bin\Debug\net10.0\MovieLibrary.pdb
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.sourcelink.json
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.dll
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\refint\MovieLibrary.dll
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.pdb
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\MovieLibrary.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\MovieLibrary\obj\Debug\net10.0\ref\MovieLibrary.dll

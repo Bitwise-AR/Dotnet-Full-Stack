@@ -1,0 +1,30 @@
+D:\Capgemini Training\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+D:\Capgemini Training\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+D:\Capgemini Training\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+D:\Capgemini Training\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+D:\Capgemini Training\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+D:\Capgemini Training\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\bin\Debug\net10.0\StreamBuzz.exe
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\bin\Debug\net10.0\StreamBuzz.deps.json
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\bin\Debug\net10.0\StreamBuzz.runtimeconfig.json
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\bin\Debug\net10.0\StreamBuzz.dll
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\bin\Debug\net10.0\StreamBuzz.pdb
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfoInputs.cache
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.AssemblyInfo.cs
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.csproj.CoreCompileInputs.cache
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.sourcelink.json
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.dll
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\refint\StreamBuzz.dll
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.pdb
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\StreamBuzz.genruntimeconfig.cache
+D:\Capg Training\C# tutorials\Sat Assignments\StreamBuzz\obj\Debug\net10.0\ref\StreamBuzz.dll

@@ -1,0 +1,32 @@
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.deps.json
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.AssemblyReference.cache
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.sourcelink.json
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.Up2Date
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\refint\BLCalc.dll
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\C# tutorials\BLCalc\BLCalc\obj\Debug\net10.0\ref\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.deps.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\bin\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\bin\Debug\net10.0\DALCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\bin\Debug\net10.0\DALCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.AssemblyReference.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.sourcelink.json
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.csproj.Up2Date
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\refint\BLCalc.dll
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\BLCalc.pdb
+D:\Dotnet Full Stack\DotNet\Three Layer Architecture\BLCalc\BLCalc\obj\Debug\net10.0\ref\BLCalc.dll

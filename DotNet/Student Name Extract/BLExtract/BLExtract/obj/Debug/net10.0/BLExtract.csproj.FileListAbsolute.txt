@@ -1,0 +1,16 @@
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\bin\Debug\net10.0\BLExtract.deps.json
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\bin\Debug\net10.0\BLExtract.dll
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\bin\Debug\net10.0\BLExtract.pdb
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\bin\Debug\net10.0\DALExtract.dll
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\bin\Debug\net10.0\DALExtract.pdb
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.csproj.AssemblyReference.cache
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.AssemblyInfo.cs
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.sourcelink.json
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.csproj.Up2Date
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.dll
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\refint\BLExtract.dll
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\BLExtract.pdb
+D:\Dotnet Full Stack\DotNet\Student Name Extract\BLExtract\BLExtract\obj\Debug\net10.0\ref\BLExtract.dll
