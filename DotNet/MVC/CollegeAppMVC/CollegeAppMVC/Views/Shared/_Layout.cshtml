@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>College Application Portal</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+
+
+<header class="main-header">
+    <div class="header-container">
+
+        <div class="header-left">
+            <img src="/images/college-logo.jpg" class="logo" />
+            <div class="header-text">
+                <h1>Lovely Professional University</h1>
+                <span>Punjab, India</span>
+            </div>
+        </div>
+
+        <nav class="header-nav">
+            <a asp-controller="CollegeApplications" asp-action="Index">Home</a>
+            <a asp-controller="CollegeApplications" asp-action="Create">Apply</a>
+        </nav>
+
+    </div>
+</header>
+
+<body>
+    <div class="app-wrapper">
+        @RenderBody()
+    </div>
+
+    @RenderSection("Scripts", required: false)
+
+</body>
+
+<footer class="main-footer">
+    <div class="footer-container">
+
+        <div class="footer-left">
+            <h3>Lovely Professional University</h3>
+            <p>Transforming Education, transforming India</p>
+        </div>
+
+        <div class="footer-right">
+            <p>© @DateTime.Now.Year LPU. All Rights Reserved.</p>
+            <p>Student Management Portal</p>
+        </div>
+
+    </div>
+</footer>
+
+</html>

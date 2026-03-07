@@ -1,0 +1,54 @@
+﻿@model CollegeAppMVC.Models.CollegeApplication
+
+<div class="idcard-page">
+    <div class="idcard-topbar">
+        <a asp-action="Details"
+           asp-route-id="@Model.Id"
+           class="btn-id-back">
+            ← Back to Profile
+        </a>
+    </div>
+
+    <div class="idcard">
+
+        <div class="idcard-header">
+            Lovely Professional University
+            <span>Punjab, India</span>
+        </div>
+
+        <div class="idcard-photo">
+            @{
+                var base64 = Convert.ToBase64String(Model.ProfileImage);
+                var imgSrc = $"data:image/png;base64,{base64}";
+            }
+            <img src="@imgSrc" />
+        </div>
+
+        <div class="idcard-body">
+            <h2>@Model.FullName</h2>
+
+            <p><strong>Course:</strong> @Model.Course</p>
+            <p><strong>Gender:</strong> @Model.Gender</p>
+            <p><strong>DOB:</strong> @Model.DateOfBirth.ToShortDateString()</p>
+            <p><strong>Phone:</strong> @Model.CountryCode @Model.PhoneNumber</p>
+
+            <p class="id-number">
+                ID: LPU@(Model.Id.ToString("D4"))
+            </p>
+        </div>
+
+        <div class="idcard-footer">
+            Valid Till 2028
+        </div>
+
+    </div>
+
+    <div class="download-id-btn">
+        <a asp-action="DownloadIdCard"
+           asp-route-id="@Model.Id"
+           class="btn-download-id">
+            Download ID Card
+        </a>
+    </div>
+
+</div>

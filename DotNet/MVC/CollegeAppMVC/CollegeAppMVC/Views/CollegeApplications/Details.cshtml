@@ -1,0 +1,82 @@
+﻿@model CollegeAppMVC.Models.CollegeApplication
+
+<div class="details-page">
+
+    <div class="details-card">
+
+        <div class="details-topbar">
+            <a asp-action="Index" class="btn-secondary">Back</a>
+
+            <a asp-action="DownloadPdf"
+               asp-route-id="@Model.Id"
+               class="btn-success">
+                Download PDF
+            </a>
+        </div>
+
+        <div class="details-content">
+
+            <div class="details-image">
+                @if (Model.ProfileImage != null)
+                {
+                    var base64 = Convert.ToBase64String(Model.ProfileImage);
+                    var imgSrc = $"data:image/png;base64,{base64}";
+                    <img src="@imgSrc" />
+                }
+            </div>
+
+            <div class="details-info">
+                <div class="detail-item">
+                    <span>Name</span>
+                    <strong>@Model.FullName</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Email</span>
+                    <strong>@Model.Email</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Gender</span>
+                    <strong>@Model.Gender</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Phone</span>
+                    <strong>@Model.CountryCode @Model.PhoneNumber</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Date of Birth</span>
+                    <strong>@Model.DateOfBirth.ToShortDateString()</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>12th Percentage</span>
+                    <strong>@Model.Percentage %</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Course</span>
+                    <strong>@Model.Course</strong>
+                </div>
+
+                <div class="detail-item">
+                    <span>Address</span>
+                    <strong>@Model.Address</strong>
+                </div>
+            </div>
+
+            <div class="idcard-btn-container">
+                <a asp-action="GenerateIdCard"
+                   asp-route-id="@Model.Id"
+                   class="btn-idcard">
+                    Generate ID Card
+                </a>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
