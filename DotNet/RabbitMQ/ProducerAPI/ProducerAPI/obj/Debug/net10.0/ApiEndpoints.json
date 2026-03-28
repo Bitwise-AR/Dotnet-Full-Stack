@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ProducerAPI.Controllers.NumberController",
+    "Method": "Send",
+    "RelativePath": "api/Number",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "number",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

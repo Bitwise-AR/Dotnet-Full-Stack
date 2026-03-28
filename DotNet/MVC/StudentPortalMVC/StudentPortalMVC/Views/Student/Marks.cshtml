@@ -1,0 +1,39 @@
+﻿@model List<StudentPortalMVC.Models.Mark>
+
+@{
+    ViewData["Title"] = "Marks";
+}
+
+<div class="container mt-5">
+
+    <h2 class="mb-4">Semester Marks</h2>
+
+    <table class="table table-striped table-bordered">
+
+        <thead class="table-dark">
+            <tr>
+                <th>Semester</th>
+                <th>Subject 1</th>
+                <th>Subject 2</th>
+                <th>Subject 3</th>
+            </tr>
+        </thead>
+
+        <tbody>
+
+            @foreach (var mark in Model)
+            {
+
+                <tr>
+                    <td>@mark.Semester</td>
+                    <td>@mark.Subject1</td>
+                    <td>@mark.Subject2</td>
+                    <td>@mark.Subject3</td>
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

@@ -1,0 +1,24 @@
+﻿@model IEnumerable<OneToOneEFMVCRepo.Models.User>
+
+<h2>Users</h2>
+
+<a asp-action="Create">Add User</a>
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>Username</th>
+        <th>Bio</th>
+        <th>Website</th>
+    </tr>
+
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@user.Username</td>
+            <td>@user.Profile?.Bio</td>
+            <td>@user.Profile?.Website</td>
+        </tr>
+    }
+
+</table>

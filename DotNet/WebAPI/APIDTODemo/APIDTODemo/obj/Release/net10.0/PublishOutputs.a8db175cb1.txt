@@ -1,0 +1,16 @@
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\APIDTODemo.exe
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\APIDTODemo.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\APIDTODemo.deps.json
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\APIDTODemo.runtimeconfig.json
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\APIDTODemo.pdb
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\System.Net.Http.Formatting.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\System.Web.Http.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\APIDTODemo\APIDTODemo\obj\Release\net10.0\PubTmp\Out\Swashbuckle.Core.dll

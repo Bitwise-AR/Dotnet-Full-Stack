@@ -1,0 +1,48 @@
+{
+  "openapi": "3.1.1",
+  "info": {
+    "title": "ProducerAPI | v1",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "https://localhost:7260"
+    },
+    {
+      "url": "http://localhost:5172"
+    }
+  ],
+  "paths": {
+    "/api/Number": {
+      "post": {
+        "tags": [
+          "Number"
+        ],
+        "parameters": [
+          {
+            "name": "number",
+            "in": "query",
+            "schema": {
+              "pattern": "^-?(?:0|[1-9]\\d*)$",
+              "type": [
+                "integer",
+                "string"
+              ],
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Number"
+    }
+  ]
+}

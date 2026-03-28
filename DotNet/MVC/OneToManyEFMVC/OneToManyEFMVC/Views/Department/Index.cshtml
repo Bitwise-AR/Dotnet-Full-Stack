@@ -1,0 +1,36 @@
+﻿@model IEnumerable<OneToManyEFMVC.Models.Department>
+
+<h2>Departments and Employees</h2>
+
+<table border="1" cellpadding="10">
+
+    <tr>
+        <th>Department</th>
+        <th>Employees</th>
+    </tr>
+
+    @foreach (var dept in Model)
+    {
+        <tr>
+            <td>@dept.Name</td>
+
+            <td>
+                @if (dept.Employees != null && dept.Employees.Count > 0)
+                {
+                    <ul>
+                        @foreach (var emp in dept.Employees)
+                        {
+                            <li>@emp.Name</li>
+                        }
+                    </ul>
+                }
+                else
+                {
+                    <span>No Employees</span>
+                }
+            </td>
+
+        </tr>
+    }
+
+</table>

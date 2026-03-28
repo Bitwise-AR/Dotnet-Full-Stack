@@ -1,0 +1,12 @@
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\StudentDTOAPI.exe
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\appsettings.json
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\StudentDTOAPI.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\StudentDTOAPI.deps.json
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\StudentDTOAPI.runtimeconfig.json
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\StudentDTOAPI.pdb
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Dotnet Full Stack\DotNet\WebAPI\StudentDTOAPI\StudentDTOAPI\obj\Release\net10.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

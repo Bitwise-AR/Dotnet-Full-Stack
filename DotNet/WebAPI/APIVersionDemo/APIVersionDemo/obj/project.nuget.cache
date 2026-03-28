@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oD1+cg0WDl4=",
+  "success": true,
+  "projectFilePath": "D:\\Dotnet Full Stack\\DotNet\\WebAPI\\APIVersionDemo\\APIVersionDemo\\APIVersionDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,60 @@
+﻿@model StudentPortalMVC.Models.Student
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container mt-4" style="max-width:700px">
+
+    <h2 class="text-center mb-4">Student Registration</h2>
+
+    <form asp-action="Register" method="post" enctype="multipart/form-data">
+
+        <div class="mb-3">
+            <label>Name</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Email</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Password</label>
+            <input asp-for="Password" type="password" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Course</label>
+            <input asp-for="Course" class="form-control" />
+        </div>
+
+        <div class="mb-3">
+            <label>Upload Photo</label>
+            <input type="file" name="photo" class="form-control" />
+        </div>
+
+        <hr />
+
+        <h4>Semester Marks</h4>
+
+        <h6>Semester 1</h6>
+
+        <input name="Sem1Sub1" class="form-control mb-2" placeholder="Subject 1" />
+        <input name="Sem1Sub2" class="form-control mb-2" placeholder="Subject 2" />
+        <input name="Sem1Sub3" class="form-control mb-3" placeholder="Subject 3" />
+
+        <h6>Semester 2</h6>
+
+        <input name="Sem2Sub1" class="form-control mb-2" placeholder="Subject 1" />
+        <input name="Sem2Sub2" class="form-control mb-2" placeholder="Subject 2" />
+        <input name="Sem2Sub3" class="form-control mb-3" placeholder="Subject 3" />
+
+        <button class="btn btn-success w-100">
+            Register Student
+        </button>
+
+    </form>
+
+</div>

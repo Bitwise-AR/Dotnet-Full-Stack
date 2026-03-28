@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="container text-center mt-5">
+
+    <h1>Student Portal</h1>
+
+    <p class="mt-3">
+        Manage student registration, marks and ID cards.
+    </p>
+
+    <br />
+
+    <a asp-controller="Auth" asp-action="Login" class="btn btn-primary me-2">
+        Student Login
+    </a>
+
+    <a asp-controller="Auth" asp-action="Register" class="btn btn-success">
+        Register
+    </a>
+
+</div>

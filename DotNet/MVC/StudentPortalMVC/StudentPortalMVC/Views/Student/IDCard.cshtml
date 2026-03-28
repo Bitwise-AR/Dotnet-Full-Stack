@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Student ID Card";
+}
+
+<div class="container mt-5">
+
+    <h2>Student ID Card</h2>
+
+    <div id="card" style="width:350px;border:2px solid black;padding:20px">
+
+        <h4 class="text-center">Student Portal</h4>
+
+        <img src="/images/student.png"
+             style="width:120px;height:120px;display:block;margin:auto" />
+
+        <p class="mt-3"><b>ID:</b> @ViewBag.StudentId</p>
+
+        <p><b>Name:</b> Student</p>
+
+        <p><b>Course:</b> B.Tech</p>
+
+    </div>
+
+    <br />
+
+    <button class="btn btn-primary" onclick="printCard()">
+        Print ID Card
+    </button>
+
+</div>
+
+<script>
+
+    function printCard()
+    {
+    var content=document.getElementById("card").innerHTML;
+
+    var win=window.open();
+
+    win.document.write(content);
+
+    win.print();
+    }
+
+</script>

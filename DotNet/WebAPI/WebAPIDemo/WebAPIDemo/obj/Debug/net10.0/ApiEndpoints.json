@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "WebAPIDemo.Controllers.NumberController",
+    "Method": "Sum",
+    "RelativePath": "Number/add",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

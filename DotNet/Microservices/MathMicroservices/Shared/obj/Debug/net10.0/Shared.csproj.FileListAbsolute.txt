@@ -1,0 +1,12 @@
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\bin\Debug\net10.0\Shared.deps.json
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\bin\Debug\net10.0\Shared.dll
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\bin\Debug\net10.0\Shared.pdb
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.AssemblyInfoInputs.cache
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.AssemblyInfo.cs
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.csproj.CoreCompileInputs.cache
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.sourcelink.json
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.dll
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\refint\Shared.dll
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\Shared.pdb
+D:\Dotnet Full Stack\Microservices\MathMicroservices\Shared\obj\Debug\net10.0\ref\Shared.dll

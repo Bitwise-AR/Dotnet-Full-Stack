@@ -1,0 +1,6 @@
+@CorrelationSquareService_HostAddress = http://localhost:5151
+
+GET {{CorrelationSquareService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
