@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Select Items</h2>
+
+<div id="products"></div>
+
+<br>
+<button onclick="generateBill()">Generate Bill</button>
+
+<h3>Total Bill: ₹<span id="total">0</span></h3>
+
+<script>
+const products = [
+    { name: "Apple", price: 50 },
+    { name: "Banana", price: 20 },
+    { name: "Mango", price: 80 },
+    { name: "Orange", price: 40 }
+];
+
+const container = document.getElementById("products");
+
+// create UI
+products.forEach((item, index) => {
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.id = "item" + index;
+
+    const label = document.createElement("label");
+    label.textContent = `${item.name} - ₹${item.price}`;
+
+    const qty = document.createElement("input");
+    qty.type = "number";
+    qty.min = "1";
+    qty.value = "1";
+    qty.id = "qty" + index;
+    qty.style.marginLeft = "10px";
+    qty.style.width = "50px";
+
+    container.appendChild(checkbox);
+    container.appendChild(label);
+    container.appendChild(qty);
+    container.appendChild(document.createElement("br"));
+});
+
+// calculate bill
+function generateBill() {
+    let total = 0;
+
+    products.forEach((item, index) => {
+        const checkbox = document.getElementById("item" + index);
+        const qty = document.getElementById("qty" + index);
+
+        if (checkbox.checked) {
+            const quantity = Number(qty.value);
+
+            if (quantity > 0) {
+                total += item.price * quantity;
+            }
+        }
+    });
+
+    document.getElementById("total").textContent = total;
+}
+</script>
+
+</body>
+</html>

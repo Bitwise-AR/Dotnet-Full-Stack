@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Show / Hide</h2>
+
+<button id="toggleBtn" onclick="toggleList()">HIDE</button>
+
+<ul id="list">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Mango</li>
+    <li>Orange</li>
+</ul>
+
+<script>
+function toggleList() {
+    const list = document.getElementById("list");
+    const btn = document.getElementById("toggleBtn");
+
+    if (list.style.display === "none") {
+        list.style.display = "block";
+        btn.textContent = "HIDE";
+    } else {
+        list.style.display = "none";
+        btn.textContent = "SHOW";
+    }
+}
+</script>
+
+</body>
+</html>

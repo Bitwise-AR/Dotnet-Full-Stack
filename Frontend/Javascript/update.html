@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+
+  <p id="output"></p>
+  <input type="text" id="key">
+  <input type="text" id="value">
+  <button onclick="addData()">ADD</button>
+
+  <script>
+  let user = {
+    Name: "Amit",
+    Age: 40,
+    Address: "Delhi"
+  };
+
+  function displayData() {
+  let output = "";
+
+  for (let key in user) {
+    output += `
+        <h3>${key} : ${user[key]}</h3>
+    `;
+  }
+
+  document.getElementById("output").innerHTML = output;
+}
+
+  function addData() {
+    let key = document.getElementById("key").value.trim();
+    let value = document.getElementById("value").value.trim();
+
+    // user[key] = value;
+    user = { ...user, [key]: value };
+    displayData();
+
+    document.getElementById("key").value = "";
+    document.getElementById("value").value = "";
+  }
+
+  displayData();
+  
+</script>
+
+</body>
+</html>

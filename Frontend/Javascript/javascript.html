@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Open Console</h2>
+
+<script>
+
+  const arr1 = [1, 2, 3];
+  const arr2 = [4, 5];
+  const combined = [...arr1, ...arr2];
+  console.log("Spread Operator:");
+  console.log("Combined Array:", combined);
+
+
+  function sum(...numbers) {
+    return numbers.reduce((total, num) => total + num, 0);
+  }
+  console.log("\nRest Operator:");
+  console.log("Sum:", sum(10, 20, 30));
+
+  const name = "Ayush";
+  const role = "Developer";
+  const message = `Hello, I am ${name} and I am a ${role}.`;
+  console.log("\nTemplate Literals:");
+  console.log(message);
+
+  
+  const user = {
+    username: "Ayush",
+    age: 21
+  };
+  const { username, age } = user;
+  const colors = ["red", "green", "blue"];
+  const [firstColor, secondColor] = colors;
+  console.log("\nDestructuring:");
+  console.log("Username:", username);
+  console.log("Age:", age);
+  console.log("First Color:", firstColor);
+  console.log("Second Color:", secondColor);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <h3>See Console</h3>
+    <script>
+        var marks = [34, 67, 23, 56, 7, 34, 67, 89, 34, 76, 89, 54, 44];
+        var divisions = ['Fail', '3rd Division', '2nd Division', '1st Division'];
+
+        console.log(divisions);
+
+        // 2 ways
+        // marks.forEach()
+        // any other method
+        
+        for (let i = 0; i < marks.length; i++) {
+            if (marks[i] >= 80) {
+                console.log(divisions[3]);
+            } else if (marks[i] >= 60) {
+                console.log(divisions[2]);
+            } else if (marks[i] >= 40) {
+                console.log(divisions[1]);
+            } else {
+                console.log(divisions[0]);
+            }
+        }        
+    </script>
+</body>
+</html>

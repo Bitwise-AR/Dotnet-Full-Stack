@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <body>
+        <div id="header">
+            <div href="#">Home</div>
+            <div href="#">About the future plans</div>
+            <div href="#">Current Clients</div>
+        </div>
+        <div id="about">
+            <p>One para about the company</p>
+        </div>
+        <div id="future">
+            <p>One para about the future plans</p>
+        </div>
+        <div id="current">
+            <p>One para about the current clients</p>
+        </div>
+
+        <div id="counting">
+
+        </div>
+
+        <script>        
+            var count = document.getElementById('counting');
+            for (let i=1; i<=10; i++) {
+                count.innerHTML += i + '<br>';
+            }
+            count.innerHTML += '<br>';
+        </script>
+    </body>
+    
+    <script>
+        var header = document.getElementsByTagName('header');
+        var divs = header.getElementsByTagName('div');
+        for (let d of divs) {
+            d.style.display = 'inline'
+        }
+    </script>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Items List</h2>
+<ul id="list"></ul>
+
+<script>
+const items = ["Apple", "Banana", "Mango", "Orange"];
+
+const ul = document.getElementById("list");
+
+items.forEach(item => {
+    const li = document.createElement("li");
+    li.textContent = item;
+    ul.appendChild(li);
+});
+</script>
+
+</body>
+</html>

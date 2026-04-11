@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p>Paragraph 1</p>
+    <p>Paragraph 2</p>
+    <p>Paragraph 3</p>
+
+    <br>
+
+    <table border="1">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+
+    <table border="1">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>6</td>
+        </tr>
+    </table>
+
+    <h4 id="info"></h4>
+    <script>
+        let paras = document.getElementsByTagName("p");
+        for (let i = 0; i < paras.length; i++) {
+            paras[i].innerHTML = String.fromCharCode(65 + i);
+        }
+        for (let i = 0; i < paras.length; i++) {
+            paras[i].innerHTML = (i + 1) + ". " + paras[i].innerHTML;
+        }
+
+        let tables = document.getElementsByTagName("table");
+        let output = "Total Tables: " + tables.length + "<br>";
+
+        for (let i = 0; i < tables.length; i++) {
+            let rows = tables[i].getElementsByTagName("tr").length;
+            output += "Table " + (i + 1) + " has " + rows + " rows<br>";
+        }
+        document.getElementById("info").innerHTML = output;
+    </script>
+
+</body>
+</html>
