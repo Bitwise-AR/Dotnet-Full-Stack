@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj": {}
+    "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj": {}
   },
   "projects": {
-    "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj": {
+    "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj",
+        "projectUniqueName": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj",
         "projectName": "ServiceB",
-        "projectPath": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj",
+        "projectPath": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\ServiceB\\ServiceB.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\ServiceB\\obj\\",
+        "outputPath": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\ServiceB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\Shared.csproj"
+              "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\Shared.csproj": {
+                "projectPath": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\Shared.csproj"
               }
             }
           }
@@ -357,14 +357,14 @@
         }
       }
     },
-    "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\Shared.csproj": {
+    "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\Shared.csproj",
+        "projectUniqueName": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\Shared.csproj",
+        "projectPath": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Dotnet Full Stack\\Microservices\\MathMicroservices\\Shared\\obj\\",
+        "outputPath": "D:\\Dotnet Full Stack\\DotNet\\Microservices\\MathMicroservices\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
