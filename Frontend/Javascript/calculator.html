@@ -79,11 +79,6 @@
             let a = parseFloat(document.getElementById("num1").value);
             let b = parseFloat(document.getElementById("num2").value);
 
-            if (isNaN(a) || isNaN(b)) {
-                alert("Please enter valid numbers");
-                return null;
-            }
-
             return { a, b };
         }
 
@@ -121,7 +116,12 @@
             }
 
             let result = values.a / values.b;
-            display(values.a, "÷", values.b, result.toFixed(2));
+
+            if (Number.isInteger(result)) {
+                display(values.a, "÷", values.b, result);
+            } else {
+                display(values.a, "÷", values.b, result.toFixed(2));
+            }
         }
 
         function display(a, op, b, result) {
